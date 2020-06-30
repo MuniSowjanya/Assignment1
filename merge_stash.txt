@@ -1,0 +1,5 @@
+From the given images, the first image is merge and second image is stash
+
+1.The git merge command lets you take the independent lines of development created by git branch and integrate them into a single branch. ... Again, this means that git merge is often used in conjunction with git checkout for selecting the current branch and git branch -d for deleting the obsolete target branch.
+ 
+2.In Git, the stash operation takes your modified tracked files, stages changes, and saves them on a stack of unfinished changes that you can reapply at any time. 
